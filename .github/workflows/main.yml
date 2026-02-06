@@ -78,4 +78,4 @@ jobs:
         run: |
           pwd
           id
-          cp monprog /tmp/monprog_nk
+          cp monprog /tmp/monprog_n
